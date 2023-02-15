@@ -13,7 +13,7 @@
 </p>
 
 ### Download:
-https://github.com/skyblockgens/simplesnipes_v2/releases/tag/Release
+https://github.com/skyblockgens/simplesnipes_v2/releases/latest
 
 ### What it does:
 
